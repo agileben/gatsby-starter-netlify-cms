@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Ben was here!
+title: NEW BLOG
 date: 2020-08-17T11:21:19.316Z
 description: The Coffee Taster’s Flavor Wheel, the official resource used by
   coffee tasters, has been revised for the first time this year.
